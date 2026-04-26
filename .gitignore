@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.streamlit/
+JoSAA_Predictor_Final/
+JoSAA_Predictor_Final_v2/
